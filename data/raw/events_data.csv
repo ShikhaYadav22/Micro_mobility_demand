@@ -1,0 +1,30 @@
+date,event_type,event_name,expected_attendance,location
+2024-01-04,conference,Delhi Sports Event,20662,Chandni Chowk
+2024-01-10,conference,Delhi Festival Event,41384,JNU
+2024-01-17,conference,Delhi Exhibition Event,8855,JNU
+2024-01-23,concert,Delhi Concert Event,42262,India Gate
+2024-01-31,conference,Delhi Sports Event,18365,India Gate
+2024-02-27,festival,Delhi Sports Event,15179,JNU
+2024-03-01,sports,Delhi Exhibition Event,6315,JNU
+2024-03-15,festival,Delhi Conference Event,28901,Delhi University
+2024-03-17,exhibition,Delhi Festival Event,6659,Connaught Place
+2024-04-01,festival,Delhi Concert Event,22098,Chandni Chowk
+2024-04-27,conference,Delhi Festival Event,43928,JNU
+2024-05-06,festival,Delhi Exhibition Event,23288,Lajpat Nagar
+2024-05-22,exhibition,Delhi Exhibition Event,36442,Red Fort
+2024-06-14,conference,Delhi Festival Event,49609,Chandni Chowk
+2024-06-15,conference,Delhi Sports Event,31036,Gurgaon Border
+2024-06-26,exhibition,Delhi Exhibition Event,25700,Chandni Chowk
+2024-07-17,conference,Delhi Exhibition Event,39586,Chandni Chowk
+2024-07-21,exhibition,Delhi Sports Event,47060,Lajpat Nagar
+2024-07-26,sports,Delhi Concert Event,15918,Karol Bagh
+2024-08-10,concert,Delhi Conference Event,7311,JNU
+2024-08-12,concert,Delhi Conference Event,40839,Karol Bagh
+2024-08-13,festival,Delhi Festival Event,27410,JNU
+2024-08-23,exhibition,Delhi Sports Event,46447,JNU
+2024-09-07,exhibition,Delhi Sports Event,36531,Karol Bagh
+2024-10-19,exhibition,Delhi Conference Event,39223,Connaught Place
+2024-11-07,conference,Delhi Exhibition Event,21604,Delhi University
+2024-11-21,conference,Delhi Festival Event,13250,Delhi University
+2024-11-23,sports,Delhi Exhibition Event,20490,Lajpat Nagar
+2024-12-21,exhibition,Delhi Festival Event,45139,India Gate

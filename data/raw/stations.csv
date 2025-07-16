@@ -1,0 +1,51 @@
+station_id,name,latitude,longitude,area_type,base_area
+0,Station_0_India_Gate,28.594893632937016,77.24575813457763,tourist,India Gate
+1,Station_1_JNU,28.540555117212765,77.15994837325798,educational,JNU
+2,Station_2_Karol_Bagh,28.634190373966657,77.19077786630113,business_district,Karol Bagh
+3,Station_3_Connaught_Place,28.62813138836685,77.20065535194911,business_district,Connaught Place
+4,Station_4_Chandni_Chowk,28.652469447697584,77.21956530960271,business_district,Chandni Chowk
+5,Station_5_JNU,28.545274195002506,77.17301665764158,educational,JNU
+6,Station_6_India_Gate,28.619716497093776,77.21980500718935,tourist,India Gate
+7,Station_7_Lajpat_Nagar,28.576343647531523,77.22648028949277,residential,Lajpat Nagar
+8,Station_8_Gurgaon_Border,28.468461748508027,77.03204391651792,transport_hub,Gurgaon Border
+9,Station_9_India_Gate,28.593953256109323,77.23997455043491,tourist,India Gate
+10,Station_10_India_Gate,28.61382490264147,77.21348510568346,tourist,India Gate
+11,Station_11_Delhi_University,28.7048506446252,77.21444673651195,educational,Delhi University
+12,Station_12_Chandni_Chowk,28.64167618339846,77.246400275145,business_district,Chandni Chowk
+13,Station_13_India_Gate,28.616693497158877,77.21129713313884,tourist,India Gate
+14,Station_14_Red_Fort,28.636387320358256,77.24849136939275,tourist,Red Fort
+15,Station_15_Lajpat_Nagar,28.56524383318937,77.22193863077138,residential,Lajpat Nagar
+16,Station_16_JNU,28.518714291564404,77.16032574535006,educational,JNU
+17,Station_17_Delhi_University,28.69082154153491,77.19297687944906,educational,Delhi University
+18,Station_18_Delhi_University,28.683434580790077,77.19136498295417,educational,Delhi University
+19,Station_19_Karol_Bagh,28.647327717364004,77.17252298346858,business_district,Karol Bagh
+20,Station_20_Chandni_Chowk,28.642147534557733,77.21569760259584,business_district,Chandni Chowk
+21,Station_21_Chandni_Chowk,28.66901040117794,77.21483922000843,business_district,Chandni Chowk
+22,Station_22_Delhi_University,28.6974692602633,77.19378057881502,educational,Delhi University
+23,Station_23_Dwarka,28.608588086747293,77.04617876652713,residential,Dwarka
+24,Station_24_Karol_Bagh,28.643685913975236,77.19888190457324,business_district,Karol Bagh
+25,Station_25_Lajpat_Nagar,28.578381538883367,77.23541955336648,residential,Lajpat Nagar
+26,Station_26_Dwarka,28.57612995794598,77.05911973056634,residential,Dwarka
+27,Station_27_Connaught_Place,28.647212949024212,77.20708499663671,business_district,Connaught Place
+28,Station_28_Karol_Bagh,28.656481419184992,77.1732005383789,business_district,Karol Bagh
+29,Station_29_Lajpat_Nagar,28.554351724806974,77.2481609101387,residential,Lajpat Nagar
+30,Station_30_Delhi_University,28.70546419060697,77.22510523596323,educational,Delhi University
+31,Station_31_Red_Fort,28.643115114530044,77.2559468746638,tourist,Red Fort
+32,Station_32_Delhi_University,28.674123924885777,77.19563945378913,educational,Delhi University
+33,Station_33_Delhi_University,28.681075072281477,77.19516709203765,educational,Delhi University
+34,Station_34_Connaught_Place,28.62425423816833,77.23107977190362,business_district,Connaught Place
+35,Station_35_JNU,28.554632981968982,77.15716390969538,educational,JNU
+36,Station_36_India_Gate,28.62337338056441,77.22243189900357,tourist,India Gate
+37,Station_37_Connaught_Place,28.63638391911894,77.23123070694864,business_district,Connaught Place
+38,Station_38_Red_Fort,28.642267343934872,77.22797932064653,tourist,Red Fort
+39,Station_39_Gurgaon_Border,28.451344940648173,77.03426470424952,transport_hub,Gurgaon Border
+40,Station_40_Red_Fort,28.649988523988167,77.25170458766327,tourist,Red Fort
+41,Station_41_Delhi_University,28.668869972865586,77.19387858069148,educational,Delhi University
+42,Station_42_Red_Fort,28.65967337719965,77.22313111743031,tourist,Red Fort
+43,Station_43_Chandni_Chowk,28.662661565488357,77.235641029219,business_district,Chandni Chowk
+44,Station_44_Connaught_Place,28.635059276972104,77.21868209027669,business_district,Connaught Place
+45,Station_45_Chandni_Chowk,28.63802209017747,77.21821310374732,business_district,Chandni Chowk
+46,Station_46_Dwarka,28.57960416289982,77.04769034086065,residential,Dwarka
+47,Station_47_Karol_Bagh,28.63212464179496,77.19653468587836,business_district,Karol Bagh
+48,Station_48_Chandni_Chowk,28.64108671820569,77.24781272759695,business_district,Chandni Chowk
+49,Station_49_Dwarka,28.609322582376016,77.05137431186267,residential,Dwarka
